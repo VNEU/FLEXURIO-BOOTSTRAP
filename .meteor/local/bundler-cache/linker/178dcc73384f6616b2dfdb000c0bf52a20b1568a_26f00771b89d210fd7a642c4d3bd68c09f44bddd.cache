@@ -1,0 +1,1 @@
+[{"type":"js","data":"(function () {\n\n/* Package-scope variables */\nvar Hotkeys;\n\n\n\n/* Exports */\nPackage._define(\"flowkey:hotkeys\", {\n  Hotkeys: Hotkeys\n});\n\n})();\n","servePath":"/packages/flowkey_hotkeys.js"}]
