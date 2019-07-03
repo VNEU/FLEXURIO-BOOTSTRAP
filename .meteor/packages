@@ -5,14 +5,14 @@
 # but you can also edit it by hand.
 
 meteor-base@1.4.0             # Packages every Meteor app needs to have
-mongo@1.6.0                   # The database Meteor supports right now
+mongo@1.6.2                   # The database Meteor supports right now
 blaze-html-templates@1.0.4    # Compile .html files into Meteor Blaze views
 reactive-var@1.0.11            # Reactive variable for tracker
 jquery@1.11.10                  # Helpful client-side library
 tracker@1.2.0                 # Meteor's client-side reactive programming library
 
-standard-minifier-css@1.5.2   # CSS minifier run for production mode
-standard-minifier-js@2.4.0    # JS minifier run for production mode
+standard-minifier-css@1.5.3   # CSS minifier run for production mode
+standard-minifier-js@2.4.1    # JS minifier run for production mode
 es5-shim@4.8.0                # ECMAScript 5 compatibility for older browsers.
 ecmascript@0.12.4              # Enable ECMAScript2015+ syntax in app code
 
@@ -33,11 +33,10 @@ mizzao:timesync
 session@1.2.0
 mrt:flash-messages
 percolate:paginated-subscription
-reload@1.2.0
+reload@1.3.0
 service-configuration@1.0.11
 spacebars@1.0.12
 standard-minifiers@1.1.0
-fourseven:scss@3.8.0_1
 momentjs:moment
 accounts-google@1.3.2
 accounts-facebook@1.3.2
@@ -60,5 +59,6 @@ flowkey:hotkeys
 jayuda:flx-autocomplete
 showdown@1.0.8
 msavin:mongol
-dynamic-import@0.5.0
-underscore
+dynamic-import@0.5.1
+underscore@1.0.10
+fourseven:scss
